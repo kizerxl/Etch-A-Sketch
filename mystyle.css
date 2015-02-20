@@ -1,0 +1,56 @@
+#container{
+	width: 960px;
+	height: 960px;
+	margin: auto;
+}
+
+#btns{
+	width: 960px;
+	height: 50px;
+	display: block;
+	margin-left: 43%;
+	margin-top: -20px;
+	margin-bottom: -15px;
+
+}
+
+
+.cells{
+	display: inline-block;
+	background-color: red;
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
+
+.top{
+	position: relative;
+	width: 960px;
+	height: 120px;
+	margin: auto;
+	top: -35px;
+	background-color: black;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.top h1{
+	 font-family: arial;
+	 font-size: 50px;
+	 font-weight: bold;
+	 color: white;
+}
+
+.top h2{
+	 font-family: arial;
+	 font-weight: bold;
+	 color: white;
+	 margin-top: -20px;
+}
+
+.info {
+	height: 100px;
+	width: 400px;
+	margin: auto;
+}
